@@ -26,15 +26,15 @@ A smart review collection system that generates location-specific review pages w
 
 ---
 
-### 🤖 Checkout Cloodot's AI Agent → [cloodot.com](https://www.cloodot.com)
-
-Build an AI agent that not only **answers customer questions**, but also **sells** by chatting directly with them on:
-
-- 💬 **Facebook Messenger**  
-- 📸 **Instagram DMs**  
-- 📱 **WhatsApp**
-
-Boost conversions by being available 24/7 — with **zero manual effort**.
+> ### 🤖 Checkout Cloodot's AI Agent → [cloodot.com](https://www.cloodot.com)
+>
+> Build an AI agent that not only **answers customer questions**, but also **sells** by chatting directly with them on:
+>
+> - 💬 **Facebook Messenger**  
+> - 📸 **Instagram DMs**  
+> - 📱 **WhatsApp**
+> 
+> Boost conversions by being available 24/7 — with **zero manual effort**.
 
 ---
 
