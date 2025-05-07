@@ -1,0 +1,7 @@
+Domain:https://www.example.com
+whatsapp:https://wa.me/919188790025
+McDonald's - 1528 Broadway Times Square, New York, NY 10036, United States|https://search.google.com/local/writereview?placeid=ChIJQXY5d3dZwokROz4N4S6oh0M
+McDonald's - 490 8th Ave, New York, NY 10001, United States|https://search.google.com/local/writereview?placeid=ChIJfzHhupZZwokRB7lFLdaT8sk
+McDonald's- 688 8th Ave, New York, NY 10036, United States|https://search.google.com/local/writereview?placeid=ChIJnSckglRYwokRxew2jSWmUhk
+McDonald's - 946 8th Ave, New York, NY 10019, United States|https://search.google.com/local/writereview?placeid=ChIJ37k-1lBYwokRI83De2HGXlk
+McDonald's - 114 Delancey St, New York, NY 10002, United States|https://search.google.com/local/writereview?placeid=ChIJXcUYZ-FYwokRS5-T5oQ2uN8
